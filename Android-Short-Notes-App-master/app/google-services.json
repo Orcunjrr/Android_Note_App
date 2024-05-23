@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1085941318551",
+    "project_id": "x3x3x3",
+    "storage_bucket": "x3x3x3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085941318551:android:53341b9b926e8bd3b3bad2",
+        "android_client_info": {
+          "package_name": "com.zypher.shortnotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnPCDAy_75PuxeHVFcCzbocfXVhoeCoqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
